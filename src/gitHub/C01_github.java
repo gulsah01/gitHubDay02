@@ -5,6 +5,6 @@ public class C01_github {
 
 
         System.out.println("Merhaba gitHub dunyasi");
-        System.out.println("ikinci satir ekleme");
+        System.out.println("son versiyon");
     }
 }
